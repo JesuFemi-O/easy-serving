@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        easy-serving=easy_serving.cli:cli
+    

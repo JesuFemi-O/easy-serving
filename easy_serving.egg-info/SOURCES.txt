@@ -1,0 +1,9 @@
+setup.py
+easy_serving/__init__.py
+easy_serving/cli.py
+easy_serving.egg-info/PKG-INFO
+easy_serving.egg-info/SOURCES.txt
+easy_serving.egg-info/dependency_links.txt
+easy_serving.egg-info/entry_points.txt
+easy_serving.egg-info/requires.txt
+easy_serving.egg-info/top_level.txt
