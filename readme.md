@@ -8,8 +8,8 @@ All you have to do is run a cli command, telling easy-serving where to find your
 
 # Features
 
-- [x ] serve a single model
-- [ x] api documentation out of the box wit swagger via fast api
+- [x] serve a single model
+- [x] api documentation out of the box wit swagger via fast api
 - [ ] access an interactive UI that makes it easy to intereact with your model
 - [ ] serve a multiple versions of a single model
 - [ ] serve mutile models
